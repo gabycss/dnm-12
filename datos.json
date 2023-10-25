@@ -1,0 +1,59 @@
+[
+    {
+        "nombre": "Pugs Enojados",
+        "fotos": ["https://raw.githubusercontent.com/gabycss/dnm-12/main/img/pug1.png", "https://raw.githubusercontent.com/gabycss/dnm-12/main/img/pug2.png", "https://raw.githubusercontent.com/gabycss/dnm-12/main/img/pug3.png"],
+        "soporte": "Ilustración",
+        "abstract": "Diseño de gráficas e ilustraciones de juego de mesa.",
+        "texto": "En este proyecto se diseña la dinámica, instrucciones y reglas de este juego que incluye un tablero, fichas y cartas. Se desarrolla una identidad visual que responde a la audiencia definida como personas millennial que acostumbran un humor absurdo inspirado en los memes de los 2010's donde no podían faltar animalitos haciendo cosas. Estas personas frecuentan el mundo digital por lo que este proyecto de diseño propone una narrativa que rescata elementos de juegos icónicos como Pokémon. "
+    },
+    {
+        "nombre": "BikeSafe",
+        "fotos": ["https://raw.githubusercontent.com/gabycss/dnm-12/main/img/bike1.png", "https://raw.githubusercontent.com/gabycss/dnm-12/main/img/bike2.png", "https://raw.githubusercontent.com/gabycss/dnm-12/main/img/bike3.png"],
+        "soporte": "Gráfico",
+        "abstract": "Diseñar una identidad de marca para BikeSafe",
+        "texto": "Parte importante del éxito de un proyecto de innovación tiene que ver con su identidad visual, la forma en la que el mundo conoce y se enfrenta por primera vez a esta gran idea de fondo que necesita ser comunicada a través de un framework distintivo que le haga destacar frente a otras iniciativas. Esto se consigue a través de asegurar una consistencia a lo largo de todos sus medios, diseñando así un manual de marca que sirve como herramienta para unificar todas las partes y personas involucradas en este proyecto."
+    },
+    {
+        "nombre": "Carnaval de Socoroma",
+        "fotos": ["https://raw.githubusercontent.com/gabycss/dnm-12/main/img/sc1.jpg", "https://raw.githubusercontent.com/gabycss/dnm-12/main/img/sc2.jpg", "https://raw.githubusercontent.com/gabycss/dnm-12/main/img/sc3.jpg"],
+        "soporte": "Gráfico",
+        "abstract": "Carnaval de Socoroma: una obra musical contemporánea de carácter indigenista",
+        "texto": "Este proyecto de diseño tiene como objetivo desarrollar la identidad visual de esta obra musical ganadora de un Capital Semilla, en cuanto al trabajo de gráficas para el disco y todo su interior, además de material de difusión para la iniciativa."
+    },
+    {
+        "nombre": "Donde la Normita",
+        "fotos": ["https://raw.githubusercontent.com/gabycss/dnm-12/main/img/normita1.jpg", "https://raw.githubusercontent.com/gabycss/dnm-12/main/img/normita2.jpg", "https://raw.githubusercontent.com/gabycss/dnm-12/main/img/normita3.jpg"],
+        "soporte": "Gráfico",
+        "abstract": "Fotografía de alimentos a emprendimiento de Chañaral.",
+        "texto": "La fotografía de producto como herramienta para una mejor percepción de calidad de sus preparaciones. El trabajo fotográfico es una parte crucial de este proyecto ya que la principal forma que tienen de relacionarse con sus clientes es mediante redes sociales, donde trabajan con una gran cantidad de pedidos delivery por lo que es crucial contar con fotografías de buena calidad para mostrar sus productos y también para promocionarlos."
+    },
+    {
+        "nombre": "Ghost Room",
+        "fotos": ["https://raw.githubusercontent.com/gabycss/dnm-12/main/img/ghost1.png", "https://raw.githubusercontent.com/gabycss/dnm-12/main/img/ghost2.png", "https://raw.githubusercontent.com/gabycss/dnm-12/main/img/ghost3.png"],
+        "soporte": "Ilustración",
+        "abstract": "Proyecto de ilustración 3D",
+        "texto": "Proyecto personal de ilustración 3D en software WOMP3D con temática de halloween. "
+    },
+    {
+        "nombre": "Ilustraciones, stickers, skate",
+        "fotos": ["https://raw.githubusercontent.com/gabycss/dnm-12/main/img/skt1.jpg", "https://raw.githubusercontent.com/gabycss/dnm-12/main/img/skt2.png", "https://raw.githubusercontent.com/gabycss/dnm-12/main/img/skt3.png"],
+        "soporte": "Ilustración",
+        "abstract": "Ilustración de conjunto de stickers de Skate",
+        "texto": "Proyecto personal de ilustración para stickers de Skate con personajes mujeres."
+    },
+    {
+        "nombre": "Matrimúsica",
+        "fotos": ["https://raw.githubusercontent.com/gabycss/dnm-12/main/img/matri1.png", "https://raw.githubusercontent.com/gabycss/dnm-12/main/img/matri2.png", "https://raw.githubusercontent.com/gabycss/dnm-12/main/img/matri3.png"],
+        "soporte": "Gráfico",
+        "abstract": "Logotipo e identidad visual de emprendimiento musical",
+        "texto": "Se diseña un logotipo inserto en una identidad visual para un proyecto musical para matrimonios. El logotipo une la representación de un anillo unido una nota musical."
+    },
+    {
+        "nombre": "Sostener el tiempo",
+        "fotos": ["https://raw.githubusercontent.com/gabycss/dnm-12/main/img/cami1.jpg", "https://raw.githubusercontent.com/gabycss/dnm-12/main/img/cami2.jpg", "https://raw.githubusercontent.com/gabycss/dnm-12/main/img/cami3.jpg"],
+        "soporte": "Fotografía",
+        "abstract": "Registro fotográfico de obra de danza contemporánea: Sostener el tiempo.",
+        "texto": "Registros fotográficos para obra de danza contemporánea que trabaja y propone conceptos del tiempo y su pasar."
+    }
+
+]
